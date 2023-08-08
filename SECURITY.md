@@ -21,3 +21,10 @@ When reporting a vulnerability, please provide us with as much detail as possibl
 - Your contact information, so we can follow up with you regarding the issue
 
 We will investigate all reported vulnerabilities and provide updates as we work to address them.
+
+## Bug Bounty
+
+While we do not currently offer a paid bug bounty program, we value and appreciate the efforts of researchers who
+responsibly disclose vulnerabilities to us. If legitimate issues are found, we will acknowledge your contribution by
+adding your name to the acknowledgments page. Your contributions play a vital role in enhancing the security. Thank you
+for your support!
